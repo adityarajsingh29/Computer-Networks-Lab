@@ -5,8 +5,8 @@
 ---
 
 ## 📌 Student Details
-- **Name:** Nitesh Sharma  
-- **Roll No:** 2301010151  
+- **Name:** Aditya Raj Singh  
+- **Roll No:** 2301010195
 - **Program:** B.Tech CSE  
 - **Section:** C  
 - **Faculty:** Mr. Mohammad Aijaz  
